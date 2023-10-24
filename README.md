@@ -5,7 +5,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Ahmed Belal</h1>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&size=24&pause=1000&color=789BF7&background=D8FFE100&center=true&vCenter=true&random=false&width=435&lines=A+passionate+Flutter+developer+" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&size=24&pause=1000&color=4929F7&background=D8FFE100&center=true&vCenter=true&random=false&width=435&lines=A+passionate+Flutter+developer+" alt="Typing SVG" /></a>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmedbelal31&label=Profile%20views:&color=0e75b6&style=plastic" alt="ahmedbelal31" /> </p>
 
 <img align="right" alt="Coding" width="400"  src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/> 
