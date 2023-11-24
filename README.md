@@ -5,6 +5,8 @@
 
 
 <h1 align="center">Hi 👋, I'm Ahmed Belal</h1>
+
+
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&size=24&pause=1000&color=4929F7&background=D8FFE100&center=true&vCenter=true&random=false&width=435&lines=A+passionate+Flutter+developer+" alt="Typing SVG" /></a>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmedbelal31&label=Profile%20views:&color=0e75b6&style=plastic" alt="ahmedbelal31" /> </p>
 
@@ -54,7 +56,6 @@ alt="android" width="40" height="40"/>
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
   <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
    </a>
-
  <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
   </a> 
@@ -63,3 +64,12 @@ alt="android" width="40" height="40"/>
     </a> 
 
  </p>
+
+<hr>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmedbelal31&show_icons=true&locale=en&layout=compact" alt="ahmedbelal31" /></p>
+
+
+
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Ahmedbelal31&border_radius=12)](https://git.io/streak-stats)
