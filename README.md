@@ -15,9 +15,9 @@
 
 
 
-- 🔭 I’m currently working on **Movies app**
+- 🔭 I’m currently working on **Flutter**
 
-- 🌱 I’m currently learning **clean architecture & Firebase**
+- 🌱 I’m currently learning **Flutter Payment Integration & Firebase**
 
 - 💬 Ask me about **Flutter**
 
